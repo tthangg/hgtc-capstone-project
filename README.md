@@ -3,4 +3,4 @@ This is my senior project for my associate degree at HGTC. This was a joint proj
 It was written in JavaScript and node.js and react.js for back-end runtime and front-end respectively.
 
 #Important Notice
-This project is no longer active or supported 
+\This project is no longer active or supported 
