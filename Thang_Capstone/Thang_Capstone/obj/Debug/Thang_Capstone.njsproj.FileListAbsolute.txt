@@ -1,0 +1,2 @@
+C:\Users\Tam\source\repos\Thang_Capstone\Thang_Capstone\obj\Debug\Thang_Capstone.njsprojAssemblyReference.cache
+C:\Users\Tam\source\repos\Thang_Capstone\Thang_Capstone\bin\Microsoft.NodejsTools.WebRole.dll

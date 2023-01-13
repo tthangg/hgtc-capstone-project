@@ -1,0 +1,148 @@
+#result tr:nth-child(odd) {
+    background-color: #4C8BF5;
+    color: #fff;
+}
+
+footer {
+    height: 100px;
+}
+
+nav {
+    height: 44px;
+    background: #990000;
+}
+
+.menu {
+    position: relative;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.menu ul {
+    width: 100%;
+    margin: 0;
+    padding-right: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul li {
+    list-style: none;
+}
+
+.menu ul li a {
+    color: white;
+    line-height: 44px;
+    text-decoration: none;
+    font-size: 1.5em;
+    display: block;
+}
+
+.menu ul li:hover a {
+    background-color: #fff;
+    border-radius: 10px;
+    color: #4C8BF5;
+}
+
+
+form{
+    padding-top: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#form th {
+    text-align: left;
+}
+
+input:focus {
+    background-color: ivory;
+}
+input#update {
+    position: absolute;
+    top: 15px;
+    left: -15px;
+}
+
+input#submit {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+input#submit:hover {
+    background: #990000;
+    color: white;
+}
+form {
+    width:20%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sloForm {
+    margin-top: 20px;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#theResult {
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#theResult {
+    border-collapse: collapse;
+}
+
+#theResult th {
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+#theResult td {
+    text-align:center;
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: left;
+}
+div#themid {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+#theResult th {
+    background: #990000;
+    color: white;
+}
+
+#theResult tr:nth-child(even) {
+    background: #ff9999;
+    color: black;
+}
+
+#theResult tr:nth-child(odd) {
+    background: white;
+    color: black;
+}
+#Open {
+    background: #00FF55;
+    font-weight:bold;
+    color:black;
+}
+#Closed {
+    background: #990000;
+    font-weight: bold;
+    color: black;
+}
